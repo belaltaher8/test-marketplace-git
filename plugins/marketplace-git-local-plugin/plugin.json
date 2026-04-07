@@ -1,0 +1,6 @@
+{
+   "name": "marketplace-git-local-plugin",
+   "description": "A test plugin for CCA",
+   "skills": "skills/",
+   "agents": "agents/"
+ }

@@ -1,0 +1,16 @@
+ {
+   "name": "test-marketplace-git",
+   "owner": { "name": "belaltaher8" },
+   "plugins": [
+     {
+       "name": "git-plugin",
+       "description": "Plugin local to this marketplace repo",
+       "source": "./plugins/git-plugin"
+     },
+     {
+       "name": "git-external-plugin",
+       "description": "Plugin hosted at an external URL",
+       "source": { "source": "url", "url": "https://github.com/belaltaher8/test-plugin-repo.git" }
+     }
+   ]
+ }

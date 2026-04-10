@@ -5,7 +5,7 @@
      {
        "name": "git-plugin",
        "description": "Plugin local to this marketplace repo",
-       "source": "./plugins/git-plugin"
+       "source": "./plugins/marketplace-git-local-plugin"
      },
      {
        "name": "git-external-plugin",
